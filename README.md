@@ -29,6 +29,7 @@ Features: 21 variables
 Target Variable: Churn (Yes / No)
 
 Key Features
+
 Customer demographics (gender, senior citizen, dependents)
 
 Account information (contract type, tenure, payment method)
@@ -93,15 +94,15 @@ Improve Fiber Optic service quality
 Promote automatic payment methods
 
 🛠** Tools Used**
+
 Powery querry(cleaning)
+
 Microsoft Excel (Data inspection)
 
 👤 Author
 
-Your Name
+
 MERIT BARNABAS
 Data Analyst Intern – AnalystLab Africa
 
 
-Get smarter responses, upload files and images, and more.
-Log in
