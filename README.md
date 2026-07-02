@@ -11,9 +11,13 @@ Telecom companies face a major challenge: customer churn. Losing customers incre
 This analysis answers the following questions:
 
 Why are customers leaving the company?
+
 Which factors influence customer churn?
+
 Which customer groups are at risk?
+
 What strategies can reduce churn?
+
 📂 Dataset Information
 
 Dataset Source: Telco Customer Churn Dataset (Kaggle)
